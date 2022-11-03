@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![me](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://www.pngfind.com/pngs/m/141-1417486_grafica-de-gantt-png-transparent-png.png)
 
 
 ### Definition lists can be used with HTML syntax.
