@@ -172,11 +172,13 @@ Over the years I have learned and taught the following languages and tools, to s
 	
 ## Countries visited with a university scholarship.
 
+# Candidate PhD Top Managemente (Technology innovation)
+> [Chile](https://github.com/luisreylara/chile/)
 <dl>
 <dt>2015</dt>
 <dd>Japan</dd>
-<dt>[2018](https://github.com/luisreylara/chile/)</dt>
-<dd>[Chile](https://github.com/luisreylara/chile/)</dd>
+<dt>2018</dt>
+<dd>Chile </dd>
 <dt>2019</dt>
 <dd>Canada</dd>
 <dt>2020</dt>
