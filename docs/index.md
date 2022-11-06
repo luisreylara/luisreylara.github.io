@@ -167,7 +167,8 @@ Over the years I have learned and taught the following languages and tools, to s
 | :---:   | :---: | :---: |
 | NAO Robots | Machine Learning  | Cisco |  
 | ESP32 | Java | ROS |  
-| Printer 3D | Kinect V1 & V2 |  | 
+| Printer 3D | Kinect V1 & V2 | Acuaponics | 
+| IoT |  |  | 
 	
 # Countries visited with a university scholarship.
 
@@ -175,7 +176,7 @@ Over the years I have learned and taught the following languages and tools, to s
 <dt>2015</dt>
 <dd>Japan</dd>
 <dt>2018</dt>
-<dd>Chile</dd>
+<dd>[Chile](https://github.com/luisreylara/chile/)</dd>
 <dt>2019</dt>
 <dd>Canada</dd>
 <dt>2020</dt>
