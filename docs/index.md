@@ -181,12 +181,14 @@ Over the years I have learned and taught the following languages and tools, to s
 <dt>2020</dt>
 <dd>Peru</dd>
 </dl>
+---
 
 ### Thank you for Whatching
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
+---
 ### Update: 05-11-2022
-
+---
 [Link to another page](./another-page.html).
 
