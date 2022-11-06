@@ -170,10 +170,16 @@ Over the years I have learned and taught the following languages and tools, to s
 | Printer 3D | Kinect V1 & V2 | Acuaponics | 
 | IoT |  |  | 
 	
-### Countries visited.
+# Countries visited.
 
+## 2015
+> [Japan](https://github.com/luisreylara/japan/) Project: New Techology in Japan
 ## 2018
-> [Chile](https://github.com/luisreylara/chile/)
+> [Chile](https://github.com/luisreylara/chile/) Project: Acuponics
+## 2019
+> [Canada](https://github.com/luisreylara/canada/) Project: Adavnced English Speaking
+## 2020
+> [Peru](https://github.com/luisreylara/peru/) Project: Professor at University Arequipa.
 
 <dl>
 <dt>2015</dt>
