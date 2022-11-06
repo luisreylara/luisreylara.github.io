@@ -2,13 +2,24 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hi!, I'm Luis Rey Lara, in 2022 a am 52 years old, i am a Professor and developer front-end and back-end, more that 10 years of experience.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My goal is is to be productive and deliver value to the company-projects. I start February 2022 studying to become a Full-stack web developer, using HTML, CSS, JS, Vue.js, Love to learn every day, and more!
+## Connect with me:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/luisreylara/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="youtube.com/@LuisReyLara">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.instagram.com/luis.rey.lara/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.facebook.com/luisreylara/">
+    <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" alt="FaceBook Badge"/>
+  </a>
+</div>
 
 # Education
 
@@ -21,20 +32,24 @@ There should be whitespace between paragraphs. We recommend including a README, 
 > 2011-2013
 
 ## Enginner Computer Science (Developer)
-> Insitute Technology Celaya (https://celaya.tecnm.mx/)
+> Insitute Technology  (https://celaya.tecnm.mx/)
 >2003-2008
 
-
-
-# Header 1
+# Experience
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Professor at University (www.upjr.edu.mx)
+> Academy: Networks, Telecomunication & Software Development
+> From: September-2013 - Actually.
 
-> This is a blockquote following a header.
->
-> When something is 
+## Professor at University (www.sabes.edu.mx)
+> Academy: Information and communication technology
+> From: 2011 - 2013.
+
+## Freelancer developer
+> From: 2000 - 2011.
+
 ### Header 3
 
 ```js
@@ -136,3 +151,6 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+[Link to another page](./another-page.html).
+
