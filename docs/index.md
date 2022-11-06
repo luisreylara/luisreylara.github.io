@@ -2,10 +2,14 @@
 layout: default
 ---
 
-Hi!, I'm Luis Rey Lara, in 2022 a am 52 years old, i am a Professor and developer front-end and back-end, more that 10 years of experience.
+Hi!, I'm Luis Rey Lara, i am 52 years old (November 2022), i am a Professor and developer front-end and back-end, more that 10 years of experience.
 
 My goal is is to be productive and deliver value to the company-projects. I start February 2022 studying to become a Full-stack web developer, using HTML, CSS, JS, Vue.js, Love to learn every day, and more!
+
+## I'm a software enginner-master who is passionate about making and teaching open-source more accessible, creating technology to elevate student, and building community. 
+
 ## Connect with me:
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/luisreylara/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
