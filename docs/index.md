@@ -165,6 +165,18 @@ Over the years I have learned and taught the following languages and tools, to s
 | ESP32 | Java | ROS |  
 | Printer 3D | Kinect V1 & V2 |  | 
 	
+## Countries visited with a university scholarship.
+
+<dl>
+<dt>2015</dt>
+<dd>Japan</dd>
+<dt>2018</dt>
+<dd>Chile</dd>
+<dt>2019</dt>
+<dd>Canada</dd>
+<dt>2020</dt>
+<dd>Peru</dd>
+</dl>
 
 ### Thank you for Whatching
 
