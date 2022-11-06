@@ -170,9 +170,9 @@ Over the years I have learned and taught the following languages and tools, to s
 | Printer 3D | Kinect V1 & V2 | Acuaponics | 
 | IoT |  |  | 
 	
-## Countries visited with a university scholarship.
+### Countries visited.
 
-# Candidate PhD Top Managemente (Technology innovation)
+# Chile - 2018
 > [Chile](https://github.com/luisreylara/chile/)
 <dl>
 <dt>2015</dt>
