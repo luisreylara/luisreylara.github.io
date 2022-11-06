@@ -172,8 +172,9 @@ Over the years I have learned and taught the following languages and tools, to s
 	
 ### Countries visited.
 
-# Chile - 2018
+## 2018
 > [Chile](https://github.com/luisreylara/chile/)
+
 <dl>
 <dt>2015</dt>
 <dd>Japan</dd>
