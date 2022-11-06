@@ -23,6 +23,10 @@ I'm a software enginner-master who is passionate about making and teaching open-
   <a href="https://www.facebook.com/luisreylara/">
     <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" alt="FaceBook Badge"/>
   </a>
+  <a href="luisreylara@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  
 </div>
 
 # Education
