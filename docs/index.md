@@ -179,21 +179,12 @@ Over the years I have learned and taught the following languages and tools, to s
 > [Chile](https://github.com/luisreylara/chile/) Project: [Acuponics](https://github.com/luisreylara/acuaponia/)
 
 ## 2019
-> [Canada](https://github.com/luisreylara/canada/) Project: Adavnced English Speaking
+> [Canada](https://github.com/luisreylara/canada/) Project: Advanced English Speaking
 
 ## 2020
 > [Peru](https://github.com/luisreylara/peru/) Project: Professor at University Arequipa.
 
-<dl>
-<dt>2015</dt>
-<dd>Japan</dd>
-<dt>2018</dt>
-<dd>Chile </dd>
-<dt>2019</dt>
-<dd>Canada</dd>
-<dt>2020</dt>
-<dd>Peru</dd>
-</dl>
+
 ---
 
 ### Thank you for Whatching
