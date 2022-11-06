@@ -167,8 +167,8 @@ Over the years I have learned and taught the following languages and tools, to s
 | :---:   | :---: | :---: |
 | NAO Robots | Machine Learning  | Cisco |  
 | [ESP32](https://github.com/luisreylara/esp32/) | Java | ROS |  
-| Printer 3D | Kinect V1 & V2 | Acuaponics | 
-| IoT |  |  | 
+| Printer 3D |  | Acuaponics | 
+| IoT | [Kinect V1](https://github.com/luisreylara/kinectv1/) | Kinect V2 | 
 	
 # Countries visited.
 
