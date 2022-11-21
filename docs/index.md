@@ -162,7 +162,7 @@ Over the years I have learned and taught the following languages and tools, to s
 
 </div>
 ---
-	
+
  Left  | Center   | Right  |
 | :------------ |:---------------:| -----:|
 | NAO Robots | Machine Learning  | [Cisco](https://github.com/luisreylara/esp32/) |  
