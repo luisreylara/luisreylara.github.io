@@ -164,7 +164,7 @@ Over the years I have learned and taught the following languages and tools, to s
 ---
 
 | .   | .  | .  |
-| :---------------: |:---------------:| :---------------:|:---------------:|
+| :---------------: |:---------------:| :---------------:|
 | NAO Robots | Machine Learning  | [Cisco](https://github.com/luisreylara/esp32/) |  
 | [ESP32](https://github.com/luisreylara/esp32/) | Java | [ROS](https://github.com/luisreylara/ros/) |  
 | [Printer 3D](https://github.com/luisreylara/printer3d/) | MagicMirror | [Acuaponics](https://github.com/luisreylara/acuaponia/) | 
@@ -185,7 +185,7 @@ Over the years I have learned and taught the following languages and tools, to s
 > [Canada](https://github.com/luisreylara/canada/) Project: Advanced English Speaking
 
 ## 2020
-> [Peru](https://github.com/luisreylara/peru/) Project: Professor at University Arequipa.
+> [Peru](https://github.com/luisreylara/peru/) Project: Professor at University Arequipa. this scholarship was canceled due to COVID.
 
 
 ---
