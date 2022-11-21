@@ -197,10 +197,10 @@ Over the years I have learned and taught the following languages and tools, to s
 ---
 ### Update: 05-11-2022
 ---
-# On the next page I will write down the log of the most recent activities carried out.
+# Log Activities
 
 ## On the next page I will write down the log of activities carried out.
->  [Link to another page](./another-page.html).
+>  [Log Activities](./another-page.html).
 
 
 
