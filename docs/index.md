@@ -8,6 +8,7 @@ My goal is is to be productive and deliver value to the company-projects. In Feb
 
 I'm a software enginner-master who is passionate about making and teaching open-source more accessible, creating technology to elevate student, and building community. 
 
+## E-Mail: luisreylara@hotmail.com
 ## Connect with me:
 
 <div id="badges">
@@ -28,6 +29,7 @@ I'm a software enginner-master who is passionate about making and teaching open-
   </a>
   
 </div>
+
 
 # Education
 
