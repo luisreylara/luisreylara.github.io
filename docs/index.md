@@ -185,7 +185,7 @@ Over the years I have learned and taught the following languages and tools, to s
 > [Canada](https://github.com/luisreylara/canada/) Project: Advanced English Speaking
 
 ## 2020
-> [Peru](https://github.com/luisreylara/peru/) Project: Professor at University Arequipa. this scholarship was canceled due to COVID.
+> [Peru](https://github.com/luisreylara/peru/) Project: Professor at University Arequipa.  This scholarship was canceled due to COVID.
 
 
 ---
@@ -197,5 +197,10 @@ Over the years I have learned and taught the following languages and tools, to s
 ---
 ### Update: 05-11-2022
 ---
-[Link to another page](./another-page.html).
+# On the next page I will write down the log of the most recent activities carried out.
+
+## On the next page I will write down the log of activities carried out.
+>  [Link to another page](./another-page.html).
+
+
 
