@@ -5,6 +5,9 @@ layout: default
 
 ## In this page, I will write down the log of the most recent activities carried out.
 
+## 09-1-2023
+* Edit CV under branch 
+
 
 
 ## 21-11-2022
