@@ -19,7 +19,7 @@ layout: default
 * Tutoring on NDG Linux Unhatched & NDG Linux Essentials 
 
 ## 03-1-2023
-* Begin master class about Fundamentals of Information Systems (mode: virtual) . Duration: 4 months
+* Begin teaching master class about Fundamentals of Information Systems (mode: virtual) . Duration: 4 months
 
 ## 21-11-2022
 * Robotic arms connect with 6 servos. with ESP32
