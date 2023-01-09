@@ -7,8 +7,12 @@ layout: default
 
 ## 09-1-2023
 * Edit CV under branch 
+* Javascript in flyncer.com
 
-
+## 07-1-2023
+* Try to install kalilinux on macbook 2015, falied!.
+* kali-linux-2022.4-installer-arm64.iso
+* kali-linux-2022.4-installer-amd64.iso
 
 ## 21-11-2022
 * Robotic arms connect with 6 servos. with ESP32
