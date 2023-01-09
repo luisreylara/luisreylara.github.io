@@ -14,6 +14,12 @@ layout: default
 * kali-linux-2022.4-installer-arm64.iso
 * kali-linux-2022.4-installer-amd64.iso
 
+## 07-1-2023
+* Netacad.com
+* Tutoring on NDG Linux Unhatched & NDG Linux Essentials 
+
+
+
 ## 21-11-2022
 * Robotic arms connect with 6 servos. with ESP32
 * [Testing Robot](https://github.com/luisreylara/BrazoRobotico_6ejes_Peru)
