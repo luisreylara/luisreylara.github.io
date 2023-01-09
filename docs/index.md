@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi!, I'm Luis Rey Lara, i am 52 years old (November 2022), i am a Professor and developer front-end and back-end, more that 10 years of experience.
+Hi!, I'm Luis Rey Lara, i am 52 years old (Model 1970-August), i am a Professor and developer front-end and back-end, more that 10 years of experience.
 
 My goal is is to be productive and deliver value to the company-projects. In February 2022 i began studying to become a Full-stack web developer, using HTML, CSS, JS, Vue.js. Love to learn every day, and more!
 
