@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
+I am a industrious, motivated and and highly productive employee.  Oven recent years,  i have developed a diverse set of skill and qualities, which i believe will ad valueto your team in this role. i am a strong communicator, a sipportive collaborator, and my problem-solving capabilities mean i will always take ownership of difficult challenges whenever they occur. I am ready to take up this position with your company, and i see it as an opportunity for me to work alongside other talented and like-minded professionals who all want to achieve great things for their employer.
 
 Hi!, I'm Luis Rey Lara, i am 52 years old (Model 1970-August), i am a Professor and developer front-end and back-end, more that 10 years of experience.
 
-My goal is is to be productive and deliver value to the company-projects. In February 2022 i began studying to become a Full-stack web developer, using HTML, CSS, JS, Vue.js. Love to learn every day, and more!
+In February 2022 i started began studying to become a Full-stack developer. Love to learn every day, and more!
 
 I'm a software enginner-master who is passionate about making and teaching open-source more accessible, creating technology to elevate student, and building community. 
 
