@@ -5,6 +5,10 @@ layout: default
 
 ## In this page, I will write down the log of the most recent activities carried out.
 
+## 10-1-2023
+* Prepare master-class about Google Action Script
+* [Introduction Examples about Google Action Script ](https://github.com/luisreylara/GAS_Google_Apps_Script)
+
 ## 09-1-2023
 * Edit CV under branch 
 * Javascript in flyncer.com
