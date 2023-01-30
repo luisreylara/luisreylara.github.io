@@ -7,7 +7,6 @@ layout: default
 
 ## 28-1-2023
 * WebApss & Google Sheets
-* 
 * [Introduction Examples about Google Action Script ](https://github.com/luisreylara/GAS_Google_Apps_Script/blob/main/codes/ShhetsToGasToHtml.gs)
 
 
