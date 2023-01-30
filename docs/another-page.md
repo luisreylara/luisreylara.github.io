@@ -9,6 +9,14 @@ layout: default
 * WebApss & Google Sheets
 * [Introduction Examples about Google Action Script ](https://github.com/luisreylara/GAS_Google_Apps_Script/blob/main/codes/ShhetsToGasToHtml.gs)
 
+## 12-1-2023
+* Automatiza tus flujos de trabajo utilizando cisco
+* [Constancia](https://github.com/luisreylara/cisco/blob/main/charla_cisco_automatiza.png)
+
+## 10-1-2023
+* Prepare master-class about Google Action Script
+* [Sheets To GAS to HTML](https://github.com/luisreylara/GAS_Google_Apps_Script)
+
 
 ## 10-1-2023
 * Prepare master-class about Google Action Script
