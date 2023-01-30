@@ -5,9 +5,15 @@ layout: default
 
 ## In this page, I will write down the log of the most recent activities carried out.
 
+## 28-1-2023
+* WebApss & Google Sheets
+* 
+* [Introduction Examples about Google Action Script ](https://github.com/luisreylara/GAS_Google_Apps_Script/blob/main/codes/ShhetsToGasToHtml.gs)
+
+
 ## 10-1-2023
 * Prepare master-class about Google Action Script
-* [Introduction Examples about Google Action Script ](https://github.com/luisreylara/GAS_Google_Apps_Script)
+* [Sheets To GAS to HTML](https://github.com/luisreylara/GAS_Google_Apps_Script)
 
 ## 09-1-2023
 * Edit CV under branch 
