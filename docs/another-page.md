@@ -4,6 +4,10 @@ layout: default
 [back](./)
 
 ## In this page, I will write down the log of the most recent activities carried out.
+## 31-01-2023
+* PhoneSploit Pro
+* Tested on a Linux 22 , this exploit is amazing!
+* https://github.com/AzeemIdrisi/PhoneSploit-Pro
 
 ## 28-1-2023
 * WebApss & Google Sheets
