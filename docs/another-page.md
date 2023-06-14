@@ -12,6 +12,12 @@ layout: default
 * MicroPython & Lego EV3 
 * [TikTok ](https://tiktok/@larkeducation)
 
+## 27-04-2023
+* FMR Federación Méxicana de Robotica (Robotics Mexican Federation) 
+* [FMR ](https://femexrobotica.org/eventos)
+* [PDF ](https://femexrobotica.org/eventos)
+* Torneo Mexicano de Robótica 2023, Universidad Tecnológica del Sureste de Veracruz, Xalapa, Veracruz, 27-29 de abril, 2023.
+
 ## 31-01-2023
 * PhoneSploit Pro
 * Tested on a Linux 22 , this exploit is amazing!
