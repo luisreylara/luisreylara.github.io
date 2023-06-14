@@ -8,6 +8,10 @@ layout: default
 * Call for international university scholarship 2023
 * [LoRa Project ](https://github.com/luisreylara/Project_Water_Telemetry)
 
+## 01-05-2023
+* MicroPython & Lego EV3 
+* [TikTok ](https://tiktok/@larkeducation)
+
 ## 31-01-2023
 * PhoneSploit Pro
 * Tested on a Linux 22 , this exploit is amazing!
