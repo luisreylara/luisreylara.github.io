@@ -4,6 +4,10 @@ layout: default
 [back](./)
 
 ## In this page, I will write down the log of the most recent activities carried out.
+## 30-05-2023
+* Call for international university scholarship 2023
+* [LoRa Porject ](https://github.com/luisreylara/Project_Water_Telemetry)
+
 ## 31-01-2023
 * PhoneSploit Pro
 * Tested on a Linux 22 , this exploit is amazing!
