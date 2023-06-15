@@ -146,7 +146,7 @@ Over the years I have learned and taught the following languages and tools, to s
   <a href="https://github.com/luisreylara/expressjs/">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
   </a>
-  <a href="https://github.com/luisreylara/opencv/">
+  <a href="https://github.com/luisreylara/OpenCv/">
     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> 
   </a>
   <a href="https://github.com/luisreylara/docker/">
