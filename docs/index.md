@@ -34,7 +34,7 @@ I'm a software enginner-master who is passionate about making and teaching open-
 
 # Education
 
-## Candidate PhD Top Managemente (Technology innovation)
+## Candidate PhD Top Management (Technology innovation)
 > Unitesba (www.unitesba.edu.mx)
 > 2014-2018
 
