@@ -16,7 +16,7 @@ I'm a software enginner-master who is passionate about making and teaching open-
   <a href="https://www.linkedin.com/in/luisreylara/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="youtube.com/@LuisReyLara">
+  <a href="https://youtube.com/@LuisReyLara">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.instagram.com/luis.rey.lara/?hl=en">
