@@ -161,6 +161,10 @@ Over the years I have learned and taught the following languages and tools, to s
 <a href="https://github.com/luisreylara/amazonaws/">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> 
   </a>
+<a href="https://github.com/luisreylara/flutter/">
+    <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white#:~:text=Flutter-,Flutter)" /> 
+  </a>
+
 
 
 </div>
