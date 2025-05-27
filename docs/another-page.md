@@ -19,6 +19,10 @@ layout: default
 * [GIT & GITHUB](https://www.udemy.com/course/git-github/)
 
 ## 01-01-2025
+* Hobbie, learning Automotive Electricity
+* [Automotive Electricity] (https://udemy.com/course/tecnico-en-electricidad-automotriz/)
+
+## 01-01-2025
 * Yoga class in a local home 
   
 ## 30-05-2023
