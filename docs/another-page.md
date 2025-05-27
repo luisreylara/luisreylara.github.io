@@ -4,6 +4,14 @@ layout: default
 [back](./)
 
 ## In this page, I will write down the log of the most recent activities carried out.
+
+## 27-05-2025
+* Teaching TypeScrpit using Vue
+* [TypeScript & Vue ](https://github.com/luisreylara/tecnologiasweb)
+
+## 01-01-2025
+* Yoga class in a local home 
+  
 ## 30-05-2023
 * Call for international university scholarship 2023
 * [LoRa Project ](https://github.com/luisreylara/Project_Water_Telemetry)
