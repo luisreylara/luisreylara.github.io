@@ -16,7 +16,7 @@ layout: default
 
 ## 01-02-2025
 * Remember Git & Github for educational an projects purpose
-* [Docker ](https://www.udemy.com/course/git-github/)
+* [GIT & GITHUB](https://www.udemy.com/course/git-github/)
 
 ## 01-01-2025
 * Yoga class in a local home 
