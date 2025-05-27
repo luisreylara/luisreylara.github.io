@@ -8,6 +8,19 @@ layout: default
 ## 27-05-2025
 * Teaching TypeScrpit using Vue
 * [TypeScript & Vue ](https://github.com/luisreylara/tecnologiasweb)
+* [TypeScript Guide ](https://www.udemy.com/course/typescript-guia-completa/)
+
+## 01-04-2025
+* Teaching Docker
+* [Docker ](https://www.udemy.com/course/ultimate-docker-guia-de-cero-hasta-despliegues/)
+
+## 01-03-2025
+* Teaching Docker
+* [Docker ](https://www.udemy.com/course/ultimate-docker-guia-de-cero-hasta-despliegues/)
+
+## 01-02-2025
+* Remember Git & Github for educational an projects purpose
+* [Docker ](https://www.udemy.com/course/git-github/)
 
 ## 01-01-2025
 * Yoga class in a local home 
