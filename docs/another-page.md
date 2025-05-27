@@ -14,10 +14,6 @@ layout: default
 * Teaching Docker
 * [Docker ](https://www.udemy.com/course/ultimate-docker-guia-de-cero-hasta-despliegues/)
 
-## 01-03-2025
-* Teaching Docker
-* [Docker ](https://www.udemy.com/course/ultimate-docker-guia-de-cero-hasta-despliegues/)
-
 ## 01-02-2025
 * Remember Git & Github for educational an projects purpose
 * [Docker ](https://www.udemy.com/course/git-github/)
