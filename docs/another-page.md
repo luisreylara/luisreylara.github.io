@@ -25,7 +25,6 @@ layout: default
 ## 01-01-2025
 * Yoga class in a local home
 
-* 
 ## 01-08-2024
 * Teaching DART Language in university
 [DART](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
