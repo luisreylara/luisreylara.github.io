@@ -18,7 +18,7 @@ layout: default
 
 ## 01-05-2023
 * MicroPython & Lego EV3 
-* [TikTok ](https://tiktok/@larkeducation)
+* [TikTok ](https://tiktok.com/@larkeducation)
 
 ## 27-04-2023
 * FMR Federación Méxicana de Robotica (Robotics Mexican Federation) 
