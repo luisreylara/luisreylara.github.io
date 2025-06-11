@@ -5,6 +5,11 @@ layout: default
 
 ## In this page, I will write down the log of the most recent activities carried out.
 
+## 07-06-2025
+* Inicia el curso Especialidad en Electrónica Automotriz
+* [Electronica Automotriz ](https://github.com/luisreylara/ElectronicaAutomotriz)
+
+
 ## 27-05-2025
 * Teaching TypeScrpit using Vue
 * [TypeScript & Vue ](https://github.com/luisreylara/tecnologiasweb)
