@@ -6,7 +6,7 @@ layout: default
 ## In this page, I will write down the log of the most recent activities carried out.
 
 ## 07-06-2025
-* Inicia el curso Especialidad en Electrónica Automotriz
+* Taking curse "Automotive electronics speciality" / Tomando el curso Especialidad en Electrónica Automotriz
 * [Electronica Automotriz ](https://github.com/luisreylara/ElectronicaAutomotriz)
 
 
